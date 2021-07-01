@@ -1,8 +1,0 @@
-{
-    "ServerID": "", // sunucu id 
-    "DatabaseName": "deneme", // mongo db adı 
-    "Token": "", // botunuzun tokeni
-    "Prefix": "!", // botunuzun ön eki
-    "Channel": "", // invite log 
-    "MinStaffRole": "" // bot sahibi id girin
-}
