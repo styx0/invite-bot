@@ -1,4 +1,4 @@
-# -invite-bot
+# invite-bot
 
 
 
