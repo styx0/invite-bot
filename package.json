@@ -7,13 +7,9 @@
     "test": "main.js"
   },
   "keywords": [
-    "discord",
-    "discord invite",
-    "discord invite bot",
-    "discord-invite-bot",
-    "Stark"
+    "discord invite bot"
   ],
-  "author": "Muratva Stark",
+  "author": "hello",
   "license": "MIT",
   "dependencies": {
     "discord-logs": "^1.7.7",
